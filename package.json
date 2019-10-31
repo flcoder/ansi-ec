@@ -1,6 +1,6 @@
 {
   "name": "ansi-ec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ANSI escape codes",
   "type": "module",
   "main": "index.js",
